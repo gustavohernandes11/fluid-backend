@@ -1,0 +1,14 @@
+{
+	"name": "fluid-backend",
+	"version": "1.0.0",
+	"description": "a simple forum about many different things",
+	"main": "index.js",
+	"devDependencies": {
+		"git-commit-msg-linter": "^5.0.6"
+	},
+	"scripts": {
+		"test": "yarn test"
+	},
+	"author": "",
+	"license": "ISC"
+}
