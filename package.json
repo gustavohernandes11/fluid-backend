@@ -4,7 +4,8 @@
 	"description": "a simple forum about many different things",
 	"main": "index.js",
 	"devDependencies": {
-		"git-commit-msg-linter": "^5.0.6"
+		"git-commit-msg-linter": "^5.0.6",
+		"typescript": "^5.3.3"
 	},
 	"scripts": {
 		"test": "yarn test"
